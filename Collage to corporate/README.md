@@ -1,1 +1,1 @@
-# In this project, I predicted the chances of collage student will get placed.
+In this project, I predicted the chances of collage student will get placed.
