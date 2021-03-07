@@ -4,7 +4,7 @@ This repo contains the Loan Approval Prediction project.
 
 Accuracy of the modle i.e. percentage of loan approval that is correctly predicted. After trying and testing 8 different algorithms, the best accuracy is achieved by Logistic Regression and SVC (0.8292), followed by ExtraTreesClassifier (0.7317) and RandomForestClassifier (0.6910), while Decision Tree performed the worst (0.6510).
 
-https://user-images.githubusercontent.com/63397654/110235712-95615b80-7f57-11eb-9ac9-8c3ce2918180.mp4
+![Loan prediction](https://user-images.githubusercontent.com/63397654/110235874-a2327f00-7f58-11eb-9957-192268e8695a.gif)
 
 This Project Covers following Process:
 
@@ -99,3 +99,7 @@ After downloading the model using pickle, it was time to start develop web appli
 I created a web page including all the entrylies model need to predict weather the customer is able to get a loan.
 
 After that I needed a colud service on which I can upload my website so I used Heroku.
+
+**Preview**
+
+![Loan prediction](https://user-images.githubusercontent.com/63397654/110235874-a2327f00-7f58-11eb-9957-192268e8695a.gif)
