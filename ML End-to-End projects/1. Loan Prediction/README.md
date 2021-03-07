@@ -25,3 +25,5 @@ Company wants to automate the loan eligibility process (real time) based on cust
 In data collection first I uploaded all the necessary libraries, after that I loded the dataset, And using sample() function from pandas library I observed the dataset.
 
 The View of the dataset
+
+![Dataset Image](Images/dataset.png)
