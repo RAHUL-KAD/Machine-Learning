@@ -92,3 +92,8 @@ After training and predictions, I downloaded the model using pickle library form
 
 
 ## 6. Conclusion
+After downloading the model using pickle, it was time to start develop web application, so I chossed Flask.
+
+I created a web page including all the entrylies model need to predict weather the customer is able to get a loan.
+
+After that I needed a colud service on which I can upload my website so I used Heroku.
