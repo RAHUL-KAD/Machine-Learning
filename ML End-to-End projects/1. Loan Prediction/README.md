@@ -40,4 +40,5 @@ Now that I had a little bit idea about what data is I started cleaning it,
 
 So first I checked for NUll values and there were few columns who had Null values
 
-Dataset had a few columns which didn't had a lot of use inn predicting the loan, for eg. LoanID, Dependents, CoapplicantIncome, Loan_Amount_Term, and Property_Area. So I dropped them.
+Below Images shows that there are lot of outliers and NULL values
+
