@@ -43,3 +43,6 @@ So first I checked for NUll values and there were few columns who had Null value
 Below Images shows that there are lot of outliers and NULL values
 
 ![Outliers](Images/loanammount.png)
+
+Now we will have a look at correlation matrix. Correlation matrix is a tabel showing correlation coefficient between variables.
+
