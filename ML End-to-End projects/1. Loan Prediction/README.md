@@ -58,7 +58,7 @@ a. The first image shows the relationship between LoanAmount and ApplicantIncome
 
 ![selfemploment](Images/selfemployed.png)
 
-b. This images hows relation with respect to the Applicants Marriage. And clearly this is more valuable that other columns.
+b. This images shows relation with respect to the Applicants Marriage. And clearly this is more valuable that other columns.
 
 ![Marriage](Images/married.png)
 
