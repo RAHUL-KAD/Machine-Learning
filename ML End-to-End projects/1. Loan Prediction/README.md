@@ -42,3 +42,4 @@ So first I checked for NUll values and there were few columns who had Null value
 
 Below Images shows that there are lot of outliers and NULL values
 
+![Outliers](Images/loanammount.png)
