@@ -35,3 +35,9 @@ You don't understand lot just by looking into it so we will perform Exploratory 
 Now I used info() method so I could understand it better. Afer applying the info() method I got to know that There are thirteen columns, four of them contains Float values, one of it have integer value and eight columns have categoricals values.
 
 Clearly this wan't enough so I used describe() method. It gave me count of the rows, mean, standard deviation, minimum values, maximum values and values for 25%, 50%, 75%.
+
+Now that I had a little bit idea about what data is I started cleaning it,
+
+So first I checked for NUll values and there were few columns who had Null values
+
+Dataset had a few columns which didn't had a lot of use inn predicting the loan, for eg. LoanID, Dependents, CoapplicantIncome, Loan_Amount_Term, and Property_Area. So I dropped them.
