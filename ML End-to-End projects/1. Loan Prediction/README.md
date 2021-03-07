@@ -1,5 +1,7 @@
 # Loan Approval Prediction Using Flask and Heroku
 
+This repo contains the Loan Approval Prediction project. 
+Accuracy of the modle i.e. percentage of loan approval that is correctly predicted. After trying and testing 4 different algorithms, the best accuracy is achieved by Logistic Regression (0.7847), followed by RandomForest (0.7778) and XGBoost (0.7778), while Decision Tree performed the worst (0.6458).
 
 This Project Covers following Process:
 
