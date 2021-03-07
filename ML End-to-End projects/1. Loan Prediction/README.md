@@ -27,3 +27,8 @@ In data collection first I uploaded all the necessary libraries, after that I lo
 The View of the dataset
 
 ![Dataset Image](Images/dataset.png)
+
+You don't understand lot just by looking into it so we will perform Exploratory data analysis
+
+
+## 3. Exploratory Data Analysis(EDA)
