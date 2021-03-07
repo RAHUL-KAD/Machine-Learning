@@ -54,18 +54,18 @@ Pairplot shows the relationship for (n,2) combination of variable in a DataFrame
 
 Scatter plot(Relationship plot) gives the better understanding of the dataset. It uses three different values that means we can see the relationship between two variables with repsect to another variable.
 
-a. The first image shows the relationship between LoanAmount and ApplicantIncome with respect to Self_Employed
+a. The first scatter plot shows the relationship between LoanAmount and ApplicantIncome with respect to Self_Employed
 
 ![selfemploment](Images/selfemployed.png)
 
-b. This images shows relation with respect to the Applicants Marriage. And clearly this is more valuable that other columns.
+b. This plot shows relation with respect to the Applicants Marriage. From this plot we can conclude that there are lot of married Applicant and clearly that's going to affect in our prediction.
 
 ![Marriage](Images/married.png)
 
-c. For Gender
+c. From this plot we can say that Male applicant are more than Female applicant's.
 
 ![gender](Images/gender.png)
 
-d. For Education
+d. Same for Education plot.
 
 ![educaion](Images/education.png)
