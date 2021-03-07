@@ -1,4 +1,4 @@
-# Loan Approval Prediction Using Flask web framework and Heroku cloud service.
+# Loan Approval Prediction Using Flask and Heroku
 
 ## Problem Statement
 About Company
