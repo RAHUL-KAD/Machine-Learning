@@ -51,3 +51,6 @@ Now we will have a look at correlation matrix. Correlation matrix is a tabel sho
 Pairplot shows the relationship for (n,2) combination of variable in a DataFrame as a matrix of plots
 
 ![pairplot](Images/paitplot.png)
+
+Scatter plot(Relationship plot) gives the better understanding of the dataset. It uses three different values that means we can see the relationship between two variables with repsect to another variable.
+
