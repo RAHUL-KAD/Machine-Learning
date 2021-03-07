@@ -46,3 +46,4 @@ Below Images shows that there are lot of outliers and NULL values
 
 Now we will have a look at correlation matrix. Correlation matrix is a tabel showing correlation coefficient between variables.
 
+![correlation matrix](Images/correlationmatrix.png)
