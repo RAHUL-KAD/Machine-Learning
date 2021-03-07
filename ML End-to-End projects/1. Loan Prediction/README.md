@@ -33,3 +33,5 @@ You don't understand lot just by looking into it so we will perform Exploratory 
 
 ## 3. Exploratory Data Analysis(EDA)
 Now I used info() method so I could understand it better. Afer applying the info() method I got to know that There are thirteen columns, four of them contains Float values, one of it have integer value and eight columns have categoricals values.
+
+Clearly this wan't enough so I used describe() method. It gave me count of the rows, mean, standard deviation, minimum values, maximum values and values for 25%, 50%, 75%.
