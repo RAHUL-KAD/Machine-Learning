@@ -76,15 +76,13 @@ In data processing first of all I selcted few columns which are important for mo
 
 Now I need to select dependent variable so I choosed Loan_Status which have values in Y and N.
 
+Data set had a null values so I used SimpleImputer.
+
 After selecting dependent variable I split the data set into train and test dataset.
-
-Now I have a SimpleImputer and StandardScaler methods from sklearn library so I used pipeline.
-
-SimpleImputer() fills NULL values with Mean, or Medium and StandardScaler() converts all of our values into the same range of values. So it helps us do deal with all the outliers.
 
 
 ## 5. Model Development and Evaluation 
-After using pipeline for SimpleImputer and StandardScalar, I needed to choose the perfect model which gives me best score. So to do that I used pipeline.
+I needed to choose the perfect model which gives me best score. So to do that I used pipeline.
 
 After trying and testing 8 different algorithms, the best accuracy is achieved by Logistic Regression and SVC (0.8292), followed by ExtraTreesClassifier (0.7317) and RandomForestClassifier (0.6910), while Decision Tree performed the worst (0.6510).
 
