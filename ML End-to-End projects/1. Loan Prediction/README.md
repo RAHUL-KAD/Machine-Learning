@@ -2,7 +2,7 @@
 
 This repo contains the Loan Approval Prediction project.
 
-Accuracy of the modle i.e. percentage of loan approval that is correctly predicted. After trying and testing 4 different algorithms, the best accuracy is achieved by Logistic Regression (0.7847), followed by RandomForest (0.7778) and XGBoost (0.7778), while Decision Tree performed the worst (0.6458).
+Accuracy of the modle i.e. percentage of loan approval that is correctly predicted. After trying and testing 8 different algorithms, the best accuracy is achieved by Logistic Regression and SVC (0.8292), followed by ExtraTreesClassifier (0.7317) and RandomForestClassifier (0.6910), while Decision Tree performed the worst (0.6510).
 
 This Project Covers following Process:
 
@@ -81,3 +81,11 @@ After selecting dependent variable I split the data set into train and test data
 Now I have a SimpleImputer and StandardScaler methods from sklearn library so I used pipeline.
 
 SimpleImputer() fills NULL values with Mean, or Medium and StandardScaler() converts all of our values into the same range of values. So it helps us do deal with all the outliers.
+
+
+## 5. Model Development and Evaluation 
+After using pipeline for SimpleImputer and StandardScalar, I needed to choose the perfect model which gives me best score. So to do that I used pipeline.
+
+After trying and testing 8 different algorithms, the best accuracy is achieved by Logistic Regression and SVC (0.8292), followed by ExtraTreesClassifier (0.7317) and RandomForestClassifier (0.6910), while Decision Tree performed the worst (0.6510).
+
+SO I used LogisticRegression to train my dataset.
