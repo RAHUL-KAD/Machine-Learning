@@ -48,4 +48,4 @@ Now we will have a look at correlation matrix. Correlation matrix is a tabel sho
 
 ![correlation matrix](Images/correlationmatrix.png)
 
-![pairplot](Iamges/paitplot.png)
+![pairplot](Images/paitplot.png)
