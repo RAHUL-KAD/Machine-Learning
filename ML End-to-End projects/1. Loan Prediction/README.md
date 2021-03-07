@@ -69,3 +69,15 @@ c. From this plot we can say that Male applicant are more than Female applicant'
 d. Same for Education plot.
 
 ![educaion](Images/education.png)
+
+
+## 4. Data pre-processing
+In data processing first of all I selcted few columns which are important for model development. Few of them have a categorical values so I used get_dummies() method from pandas library to convert them into numerical values.
+
+Now I need to select dependent variable so I choosed Loan_Status which have values in Y and N.
+
+After selecting dependent variable I split the data set into train and test dataset.
+
+Now I have a SimpleImputer and StandardScaler methods from sklearn library so I used pipeline.
+
+SimpleImputer() fills NULL values with Mean, or Medium and StandardScaler() converts all of our values into the same range of values. So it helps us do deal with all the outliers.
