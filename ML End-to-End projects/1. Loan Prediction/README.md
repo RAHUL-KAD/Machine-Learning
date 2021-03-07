@@ -4,6 +4,8 @@ This repo contains the Loan Approval Prediction project.
 
 Accuracy of the modle i.e. percentage of loan approval that is correctly predicted. After trying and testing 8 different algorithms, the best accuracy is achieved by Logistic Regression and SVC (0.8292), followed by ExtraTreesClassifier (0.7317) and RandomForestClassifier (0.6910), while Decision Tree performed the worst (0.6510).
 
+https://user-images.githubusercontent.com/63397654/110235712-95615b80-7f57-11eb-9ac9-8c3ce2918180.mp4
+
 This Project Covers following Process:
 
 1. Problem Statement
