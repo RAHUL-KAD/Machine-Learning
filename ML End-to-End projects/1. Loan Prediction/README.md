@@ -87,3 +87,8 @@ I needed to choose the perfect model which gives me best score. So to do that I 
 After trying and testing 8 different algorithms, the best accuracy is achieved by Logistic Regression and SVC (0.8292), followed by ExtraTreesClassifier (0.7317) and RandomForestClassifier (0.6910), while Decision Tree performed the worst (0.6510).
 
 SO I used LogisticRegression to train my dataset.
+
+After training and predictions, I downloaded the model using pickle library form python.
+
+
+## 6. Conclusion
