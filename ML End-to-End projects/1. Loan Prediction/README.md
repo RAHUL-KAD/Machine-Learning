@@ -48,4 +48,6 @@ Now we will have a look at correlation matrix. Correlation matrix is a tabel sho
 
 ![correlation matrix](Images/correlationmatrix.png)
 
+Pairplot shows the relationship for (n,2) combination of variable in a DataFrame as a matrix of plots
+
 ![pairplot](Images/paitplot.png)
