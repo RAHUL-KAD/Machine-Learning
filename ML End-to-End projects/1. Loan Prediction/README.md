@@ -1,5 +1,16 @@
 # Loan Approval Prediction Using Flask and Heroku
 
+
+This Project Covers following Process:
+
+1. Problem Statement
+2. Data Collection
+3. Exploratory Data Analysis
+4. Data Pre-processing 
+5. Model Development and Evaluation
+6. Conclusion
+
+
 ## Problem Statement
 About Company
 Dream Housing Finance company deals in all home loans. They have presence across all urban, semi urban and rural areas. Customer first apply for home loan after that company validates the customer eligibility for loan.
