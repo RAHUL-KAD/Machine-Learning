@@ -11,7 +11,7 @@ The dataset contains seven major variables that will be having an impact on whet
 
 
 
-#### Applications of the dataset:
+#### Applications of the Project:
 1. Chatbot
 2. Hospital use
-3. Checking by yourself
+3. Personal use
