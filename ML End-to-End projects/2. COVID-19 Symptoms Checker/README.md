@@ -7,3 +7,8 @@ The dataset contains seven major variables that will be having an impact on whet
 2. Tiredness
 3. Dry-Cough
 4. Difficulty-in-Breath, etc.
+
+#### Applications of the dataset:
+1. Chatbot
+2. Hospital use
+3. Checking by yourself
