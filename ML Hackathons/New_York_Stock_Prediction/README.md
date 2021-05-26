@@ -38,3 +38,5 @@ At Epoch 1:
     3. val_loss: 0.0013 
     4. val_accuracy: 0.9505
 
+
+# 3. How to use it ?
