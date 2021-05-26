@@ -60,12 +60,17 @@ loded_model = keras.models.load_model('file_path/stock_predict_1.h5')
 # predicting the values
 loded_model.predict("Any value you want to predict")
 ```
+# 4. Acutal and predicted values difference:
 
-# 4. GPU Usage:
+![Screenshot from 2021-05-26 14-46-02](https://user-images.githubusercontent.com/63397654/119635282-29451400-be31-11eb-832e-a7004c49675a.png)
+
+
+
+# 5. GPU Usage:
 
 ![Screenshot from 2021-05-26 14-37-30](https://user-images.githubusercontent.com/63397654/119634021-ef274280-be2f-11eb-8ac5-8e9bd75c9fe2.png)
 
-# 5. Creadit: 
+# 6. Creadit: 
 I would like to thank [Kartikey Sharma](https://www.kaggle.com/shiratorizawa) for providing wounderful kaggle kernel, expalining how to predict stock prices.
 
 
