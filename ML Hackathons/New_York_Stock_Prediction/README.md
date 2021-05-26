@@ -61,4 +61,9 @@ loded_model = keras.models.load_model('file_path/stock_predict_1.h5')
 loded_model.predict("Any value you want to predict")
 ```
 
+# 4. GPU Usage:
+
+![Screenshot from 2021-05-26 14-37-30](https://user-images.githubusercontent.com/63397654/119634021-ef274280-be2f-11eb-8ac5-8e9bd75c9fe2.png)
+
+# 5. Creadit: 
 
