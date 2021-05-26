@@ -40,3 +40,5 @@ At Epoch 1:
 
 
 # 3. How to use it ?
+
+First of all you need to download 
