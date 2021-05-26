@@ -41,4 +41,21 @@ At Epoch 1:
 
 # 3. How to use it ?
 
-First of all you need to download 
+1. First of all you need to download **stock_predict_1.h5** file.
+2. After that you need to import tensorflow and keras
+3. Then you need to load model using keras.models.load_model()
+4. After loading model you can predict your values.
+
+```
+# Importing the libraries
+import tensorflow as tf
+from tensorflow import keras
+
+# Loding the model
+loded_model = keras.models.load_model('file_path/stock_predict_1.h5')
+
+# predicting the values
+loded_model.predict("Any value you want to predict")
+```
+
+
