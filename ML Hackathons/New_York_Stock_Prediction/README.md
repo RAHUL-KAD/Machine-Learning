@@ -1,5 +1,8 @@
 # New york stock price prediction
 
+![Screenshot from 2021-05-26 14-34-37](https://user-images.githubusercontent.com/63397654/119633667-99eb3100-be2f-11eb-85f6-953b32527531.png)
+
+
 ### You can view accuracy, loss, epochs, validation accuracy dashbord [here](https://wandb.ai/rahulk/NYSE%20Stock%20Price%20prediction%20V-1/reports/New-York-stock-price-prediction-dashboard--Vmlldzo3MjcyMjk).
 
 # 1. Problem statement:
