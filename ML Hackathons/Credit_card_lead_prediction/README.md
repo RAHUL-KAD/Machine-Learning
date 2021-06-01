@@ -12,8 +12,7 @@ Analytics Vidhya provided train and test dataset. You can download it from [here
 
 # 3. Model Training:
 
-I achived accuracy of 74% using [roc_acc_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html) metric.
-
+I achived 84% accuracy using accuracy score matric.
 **Parameters:**
 
     1. Algorithm: Random Forest classifier
