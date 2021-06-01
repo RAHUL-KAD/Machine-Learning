@@ -70,7 +70,7 @@ loded_model.predict("Any value you want to predict")
 
 ![Screenshot from 2021-05-26 14-37-30](https://user-images.githubusercontent.com/63397654/119634021-ef274280-be2f-11eb-8ac5-8e9bd75c9fe2.png)
 
-# 6. Creadit: 
+# 6. Credit: 
 I would like to thank [Kartikey Sharma](https://www.kaggle.com/shiratorizawa) for providing wounderful kaggle kernel, expalining how to predict stock prices.
 
 
